@@ -38,8 +38,9 @@
 BlynkTimer timer;
 ArduinoLEDMatrix matrix;
 
-char ssid[] = "XXXXXXXXX";
-char pass[] = "XXXXXXXXXXX";
+/* buat connect ke hotspotnya Erin*/
+char ssid[] = "Infinix NOTE 50 Pro";
+char pass[] = "satusampaidelapan";
 
 int eeprom_addr = 0;
 int sensorValue = 0;
