@@ -18,8 +18,8 @@
  - 5V Water Pump
  
  Blynk Virtual Pins:
- - V0 : Soil Moisture (float, 0.0 - 100.0%)
- - V1 : Water Pump Toggle (int, 0 = OFF / 1 = ON)
+ - V0 : Soil Moisture (float, 0.0-100.0%)
+ - V1 : Water Pump Toggle (int, 0 = OFF/1 = ON)
  *************************************************************/
 
 #define BLYNK_TEMPLATE_ID "TMPL66TIDdQ4W"
